@@ -19,8 +19,8 @@ Any free time i dedicate to webdev because I really like it.
 - HTML, CSS
 - [BEM](https://en.bem.info/)
 - Vanilla JavaScript
-- Node.js, npm
-- Git
+- [Node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com/)
 - IDE
 
 
