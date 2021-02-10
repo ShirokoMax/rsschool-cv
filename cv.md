@@ -41,4 +41,4 @@ Any free time i dedicate to webdev because I really like it.
 - [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 - [htmlacademy](https://htmlacademy.ru/)
 
-**English Level**: Intermediate
+**English Level**: Intermediate B1
