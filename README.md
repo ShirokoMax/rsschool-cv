@@ -1,3 +1,1 @@
-# rsschool-cv
-
-https://ShirokoMax.github.io/rsschool-cv/cv
+https://ShirokoMax.github.io/rsschool-cv/
