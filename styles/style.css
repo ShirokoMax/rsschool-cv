@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+  width: 80%;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
+
+.header__img {
+  float: left;
+  margin-right: 25px;
+  width: 200px;
+  height: 100%;
+}
+
+code {
+  white-space: pre-wrap;
+}
+
+@media (max-width: 640px) {
+  .container {
+    width: 92%;
+  }
+}
+
+@media (min-width: 1920px) {
+  .container {
+    width: 1280px;
+  }
+}

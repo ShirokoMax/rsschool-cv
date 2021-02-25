@@ -1,1 +1,1 @@
-https://ShirokoMax.github.io/rsschool-cv/
+https://shirokomax.github.io/rsschool-cv/
